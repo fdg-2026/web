@@ -67411,7 +67411,7 @@ return A.R($async$qf,r)},
 M(a){var s,r,q,p,o=this,n=null,m=A.as(a).ax,l=m.y2
 m=l==null?m.c:l
 o.a.toString
-l=A.jj("Euro Exchange Chart",n,n,n,n,n,n)
+l=A.jj("Euro Exchange Chart xxx",n,n,n,n,n,n)
 s=A.d([o.PC(),A.xq(n,10,n)],t.E)
 if(o.d)s.push(B.zi)
 if(!o.d&&$.iu().b.length===0)s.push(A.jj("  Error retrieving exchange rates",n,n,n,n,n,n))
