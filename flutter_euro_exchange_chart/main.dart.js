@@ -67392,7 +67392,7 @@ if(b?r.C(s,a):r.B(s,a))this.aq()}}
 A.PZ.prototype={}
 A.FE.prototype={
 M(a){var s=null
-return new A.vB(B.Gs,"Euro Exchange Chart",A.aho(s,A.ajO(B.O,s,s,B.cq),s),s)}}
+return new A.vB(B.Gs,"Flutter Euro Exchange Chart",A.aho(s,A.ajO(B.O,s,s,B.cq),s),s)}}
 A.vP.prototype={
 aj(){return new A.Mw()}}
 A.Mw.prototype={
@@ -67411,7 +67411,7 @@ return A.R($async$qf,r)},
 M(a){var s,r,q,p,o=this,n=null,m=A.as(a).ax,l=m.y2
 m=l==null?m.c:l
 o.a.toString
-l=A.jj("Euro Exchange Chart xxx",n,n,n,n,n,n)
+l=A.jj("Flutter Euro Exchange Chart",n,n,n,n,n,n)
 s=A.d([o.PC(),A.xq(n,10,n)],t.E)
 if(o.d)s.push(B.zi)
 if(!o.d&&$.iu().b.length===0)s.push(A.jj("  Error retrieving exchange rates",n,n,n,n,n,n))
